@@ -9,3 +9,6 @@ Features:
   
 For more information and to contribute, visit the original project on GitLab:
 https://gitlab.com/nierven/cards
+
+
+![Description of the image](./cards_view.png)
