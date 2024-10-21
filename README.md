@@ -6,5 +6,6 @@ Features:
 - Multiplayer functionality
 - Interactive game interface
 - Dynamic card game rules
+  
 For more information and to contribute, visit the original project on GitLab:
 https://gitlab.com/nierven/cards
